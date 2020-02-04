@@ -1,6 +1,6 @@
 /**
   
- @author  
+ @author  Raina Gupta & Jay Mendapara
  */
 public class Prog1
 {
